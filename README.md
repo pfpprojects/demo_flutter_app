@@ -1,16 +1,15 @@
 # demo_flutter_app
 
-A new Flutter project.
+السلام عليكم
+هذا المشروع البسيط هو الخطوة الاولى ان شاء الله في طريق صفحة مشاريع برمجية
+المشروع يعمل بشكل متزامن مع المشروع المكمل له 
 
-## Getting Started
+ادخل راب السيرفر
 
-This project is a starting point for a Flutter application.
+حيث ان المشروع المرافق هو عبارة عن ويب سيرفر يقوم بخدمة هذا التطبيق البسيط
 
-A few resources to get you started if this is your first Flutter project:
+التطبيق عبارة عن حاسبة بدائية 
+تقوم بحساب العمليات الحسابية البسيطة بارسال رقمين وعملية حسابية الى الخادم اللذي يقوم بدوره بارسال النتيجة للتطبيق
+والتطبيق يعرض النتيجة على المستخدمين
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ملاحظة التطبيق لا يعمل اللا على نفس الجهاز اللذي يشغل الخادم 
